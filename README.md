@@ -1,4 +1,4 @@
-# Valentine's Day Interactive Website (CodeKage)
+# Valentine's Day Interactive Website
 
 Thank you to [@mewtru](https://instagram.com/mewtru) for the video idea!
 
